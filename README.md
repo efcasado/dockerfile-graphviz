@@ -1,4 +1,5 @@
 # Graphviz
+[![](https://images.microbadger.com/badges/image/efcasado/graphviz.svg)](https://microbadger.com/images/efcasado/graphviz)
 
 Alpine Linux based, dockerized Graphviz.
 
